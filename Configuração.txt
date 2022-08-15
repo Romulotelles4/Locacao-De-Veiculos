@@ -1,0 +1,20 @@
+Classes a serem criadas Para cada Classe com com CRUD
+
+	Dominio
+		Classe
+		IRepositorioClasse
+		ValidadorClasse
+
+	Infra
+		RepositorioClasseBancoDados
+
+	Apresentação
+		ConfiguracaoToolBoxClasse
+		ControladorClasse
+		TelaCadastroClasseForm
+		TabelaClasseControl
+
+	Teste
+		TesteClasse
+		TesteValidadorClasse
+		TesteInfraClasse
